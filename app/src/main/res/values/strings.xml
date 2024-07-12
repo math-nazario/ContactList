@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Contact List</string>
+
+    <string name="detail_send">Send message</string>
+    <string name="detail_share">Share contact</string>
+    <string name="detail_block">Block contact</string>
+
+    <string name="main_contacts">Contacts</string>
+</resources>
